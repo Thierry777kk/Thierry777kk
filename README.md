@@ -1,16 +1,18 @@
-### Hi there 👋
+### Boas vindas ao meu perfil 👾🤡
 
-<!--
-**Thierry777kk/Thierry777kk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou o aluno Thierry🦒
 
-Here are some ideas to get you started:
+-Estou estudando na plataforma [Alura]( https://cursos.alura.com.br )
+-Estou me desenvolvendo na linguagem JavaScript
+-Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## Você ṕode entrar em contato comigo🗃
+
+
+00001109763621sp@al.educacao.sp.gov.br
+
+
+
+![minecraft-dog](https://github.com/Thierry777kk/Thierry777kk/assets/169839339/5d798912-c698-4736-8e1e-f7290a60bcd5)
